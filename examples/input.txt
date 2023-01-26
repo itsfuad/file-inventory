@@ -1,0 +1,3 @@
+data/report.csv|500
+logs/app.log|200
+logs/prev.log|300
